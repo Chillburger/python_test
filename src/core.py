@@ -25,7 +25,7 @@ class Foo:
     def __call__(self):
         print 'called'
 
-        
+
 def main():
     foo_instance =  Foo()
     foo_instance()
